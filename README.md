@@ -6,6 +6,7 @@ CoinPulse is a responsive React + Redux Toolkit app that simulates live cryptocu
 https://github.com/vaibhavk0411/CoinPulse
 
 🎥 Demo Video:  
+https://drive.google.com/file/d/1-H7CUNS81T6kruvxGL8gc6wOi6h0uUkc/view?usp=sharing
 
 
 ---
