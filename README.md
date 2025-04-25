@@ -1,12 +1,21 @@
-# React + Vite
+# 🚀 CoinPulse – Real-Time Crypto Price Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CoinPulse is a responsive React + Redux Toolkit app that simulates live cryptocurrency price tracking, similar to CoinMarketCap. It updates key market stats like price, % change, and volume every 1–2 seconds using mock data. All state is managed in Redux.
 
-Currently, two official plugins are available:
+🔗 GitHub Repo:  
+https://github.com/vaibhavk0411/CoinPulse
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎥 Demo Video:  
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Setup Instructions
+
+Clone the repository and run it locally:
+
+```bash
+git clone https://github.com/vaibhavk0411/CoinPulse.git
+cd CoinPulse
+npm install
+npm run dev
